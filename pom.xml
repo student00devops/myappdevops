@@ -3,14 +3,14 @@
   <groupId>es.examplecorp.student00</groupId>
   <artifactId>myapp</artifactId>
   <packaging>war</packaging>
-  <version>1.6-SNAPSHOT</version>
+  <version>1.6</version>
   <name>myapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
     <connection>scm:git:git@github.com:student00devops/myappdevops.git</connection>
     <url>scm:git:git@github.com:student00devops/myappdevops.git</url>
     <developerConnection>scm:git:git@github.com:student00devops/myappdevops.git</developerConnection>
-    <tag>myapp-1.0</tag>
+    <tag>myapp-1.6</tag>
   </scm>
   <ciManagement>
     <system>jenkins</system>
